@@ -1,8 +1,8 @@
-# ARCore Experimentation
-Repository of my experimentation with Google's ARCore.
+# AR Experimentation
+Repository of my experimentation with augmented reality toolkits.
 
 ## Table of Contents
-- [ARCore Experimentation](#arcore-experimentation)
+- [AR Experimentation](#arcore-experimentation)
     - [Table of Contents](#table-of-contents)
     - [Drivable Car](#drivable-car)
 
@@ -10,6 +10,6 @@ Repository of my experimentation with Google's ARCore.
 
 ## [Drivable Car](drivable-car/README.md)
 
-Spawn and control a car using on-screen joysticks. Made using Unity 3D.
+Spawn and control a car using on-screen joysticks. Made using Google's ARCore and Unity 3D.
 
-[to top](#arcore-experimentation)
+[to top](#ar-experimentation)

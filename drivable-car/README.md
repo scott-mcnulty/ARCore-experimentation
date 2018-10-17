@@ -2,7 +2,7 @@
 Spawn and control a car using on-screen joysticks.
 
 ## Table of Contents
-- [ARCore Experimentation](#arcore-experimentation)
+- [Drivable Car](#drivable-car)
     - [Table of Contents](#table-of-contents)
     - [Versions](#versions)
 
@@ -25,4 +25,4 @@ Version Summary:
 
 ![v0 Demo](docs/versions/v0/images/2018-10-16.gif)
 
-[to top](#arcore-experimentation)
+[to top](#drivable-car)
