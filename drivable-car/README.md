@@ -6,6 +6,7 @@ Spawn and control a car using on-screen joysticks.
 - [Drivable Car](#drivable-car)
     - [Table of Contents](#table-of-contents)
     - [Versions](#versions)
+        - [v0](#v0)
 
 -----
 
@@ -25,5 +26,7 @@ Version Summary:
 - Left joystick controls forward and backward movement while right joystick is to turn.
 
 ![v0 Demo](docs/versions/v0/images/2018-10-16.gif)
+
+16/10/2018
 
 [to top](#drivable-car)
