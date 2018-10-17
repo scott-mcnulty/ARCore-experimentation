@@ -9,3 +9,6 @@ Summary:
 - Jump button currently disabled.
 - No vehicle options at the moment.
 - Left joystick controls forward and backward movement while right joystick is to turn
+
+
+![v0 Demo](images/2018-10-16.gif)
