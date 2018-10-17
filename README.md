@@ -2,9 +2,9 @@
 
 Repository of my experimentation with augmented reality toolkits.
 
-## Table of Contents
-- [AR Experimentation](#arcore-experimentation)
-    - [Table of Contents](#table-of-contents)
+# Table of Contents
+- [AR Experimentation](#ar-experimentation)
+- [Table of Contents](#table-of-contents)
     - [Drivable Car](#drivable-car)
 
 -----

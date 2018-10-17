@@ -2,9 +2,9 @@
 
 Spawn and control a car using on-screen joysticks.
 
-## Table of Contents
+# Table of Contents
 - [Drivable Car](#drivable-car)
-    - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
     - [Versions](#versions)
         - [v0](#v0)
 
